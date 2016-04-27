@@ -1,0 +1,19 @@
+Nombre d’éléments ponctuels: 4
+Nombre d’éléments de frontière: 88
+Nombre d’éléments de volume: 1906
+Qualité d’élément minimale: 0.8511
+Solveur aux valeurs propres 1 dans Solveur 1 démarré à 15-avr.-2016 16:33:00.
+Solveur aux valeurs propres
+Nombre de degrés de liberté résolus: 3901 (plus 180 DDL internes).
+Matrices symétriques détectées.
+Échelle pour les variables dépendantes:
+Variable dépendante u (comp1.u): 1
+Iter      ErrEst  Nconv
+   1      0.0017    187
+   2     2.5e-29    200
+502 solutions du système linéaire.
+502 multiplications de matrice.
+réorthogonalisations.
+Solveur aux valeurs propres 1 dans Solveur 1: durée de calcul: 3 s.
+                                              Mémoire physique: 877 MB
+                                              Mémoire Virtuelle: 4215 MB
